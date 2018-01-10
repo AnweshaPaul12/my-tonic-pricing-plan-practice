@@ -1,0 +1,205 @@
+@media only screen and (max-width: 1024px)
+{
+	.accr-heading
+	{
+		margin-bottom: 75px;
+		margin-top: 90px;
+		font-size: 45px;
+		color: #282828;
+	}
+
+	.pricing-heading p
+	{
+		padding: 20px 70px;
+	}
+
+}
+
+@media only screen and (max-width: 991px)
+{
+	.pricing-heading p
+	{
+		padding: 20px 0px;
+		font-size: 17px;
+	}
+
+	.price-card h2
+	{
+		font-size: 28px;
+	}
+	.price-card p {
+		padding: 40px 3px 35px 10px;
+		font-size: 12px;
+	}
+
+	.badges
+	{
+		margin-top: 10px;
+		font-size: 20px;
+	}
+
+	.prime-badge::after
+	{
+		border-top: 108px solid #ffcc00;
+		border-left: 108px solid transparent;
+	}
+
+	.price-person p
+	{
+		padding: 0;
+		margin-left: 73px;
+	}
+	.price-money
+	{
+		font-size: 45px;
+	}
+
+	.price-card p
+	{
+		padding: 5px 3px 9px 3px;
+    	font-size: 12px;
+	}
+
+	.accr-heading
+	{
+		margin-bottom: 60px;
+    	margin-top: 80px;
+    	font-size: 35px;
+	}
+
+	.panel-title a 
+	{
+    	font-size: 21px;
+	}
+
+	.panel-body
+	{
+    	font-size: 14px;
+	}
+}
+
+@media only screen and (max-width: 767px)
+{
+
+	.pricing-heading p
+	{
+		padding: 16px 31px;
+		font-size: 16px;
+	}
+
+	.pricing-heading h2 {
+		font-size: 43px;
+	}
+	.price-card h2
+	{
+		font-size: 32px;
+	}
+	.price-card p
+	{
+		padding: 15px 11px 15px 2px;
+		font-size: 16px;
+
+	}
+
+	.price-person p
+	{
+		padding: 0;
+	}
+
+	.card-details
+	{
+		padding: 15px 15px 15px 60px;
+	}
+
+	.accr-heading {
+		margin-bottom: 60px;
+		margin-top: 60px;
+		font-size: 30px;
+		text-align: center;
+	}
+
+	.panel-title a
+	{
+		font-size: 20px;
+	}
+
+	.panel-body
+	{
+		font-size: 14px;
+	}
+
+	.copy-right-section
+	{
+		padding-bottom: 20px;
+		border-top: 1px solid #e7e7e7;
+		text-align: center;
+	}
+
+	.copy-right-section p {
+		color: #8c9399;
+		float: none!important;
+	}
+	.free-card button
+	{
+		margin-bottom: 30px;
+	}
+
+	.third-header h3
+	{
+		margin-top:-12px;
+	}
+
+	.free-card
+	{
+		margin-top: 75px;
+	}
+/*.relative
+{
+	position: relative;
+}
+.third-header h3
+{
+	position: absolute;
+	top:50%;
+	left:0;
+	transform: translateY(-50%);
+	}*/
+
+
+
+}
+
+@media only screen and (max-width: 540px)
+{
+
+
+.pricing-heading p
+{
+	font-size: 15px;
+}
+}
+
+
+@media only screen and (max-width: 480px)
+{
+
+.pricing-heading p {
+    padding: 16px 18px;
+    font-size: 15px;
+}
+}
+
+
+@media only screen and (max-width: 360px)
+{
+	.pricing-heading p 
+	{
+	    font-size: 13px;
+    padding: 10px 15px;
+	}
+
+	.price-money 
+	{
+    font-size: 42px;
+	}
+}

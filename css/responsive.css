@@ -1,0 +1,347 @@
+@media only screen and (max-width: 1024px){
+
+.second-header .navbar-header {
+    padding: 15px 15px 15px 0;
+}
+.second-header .navbar-nav {
+    padding: 15px 15px 15px 0;
+}
+
+.second-header .form-group {
+    padding:0;
+    margin-top:14px;
+}
+.second-header img
+{
+    max-width: 80%;
+}
+
+.article-img{
+    max-height:150px;
+}
+.popular-article-img 
+{
+    max-height:65px;
+}
+.popular-article-section p
+{
+    font-size: 11px;
+}
+.article-section button
+{
+    margin-left: 26%;
+    margin-bottom: 30px;
+    margin-top: -74px;
+}
+
+.icon 
+{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    color: white;
+    line-height: 33px;
+    background: skyblue;
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    margin-left: -25px;
+    top: 50%;
+    transform: translateY(-50%);
+   
+}
+.discount-card-details button
+{
+    padding: 5px;
+    font-size: 12px;
+}
+
+.doctor-card-details h4
+{
+    font-size: 14px;
+}
+.tonic-list h2
+     {
+        font-size:24px;
+     }
+     .question-card p:first-child
+     {
+        padding: 25px;
+     }
+
+.doctor-card-details button
+{
+    padding: 5px;
+    font-size: 12px;
+}
+}
+
+@media only screen and (max-width: 991px){
+.second-header .navbar-header
+{
+    padding: 28px 0;
+    width: 100px;
+}
+.second-header .navbar-nav 
+{
+    font-size: 10px;
+}
+.second-header .form-group {
+
+ font-size: 12px;
+ margin-left:0;
+}
+.second-header .navbar-right
+{
+    float:right!important;
+    display: inline-block;
+}
+.second-header.navbar-form
+{
+        padding: 10px 0px;
+}
+.log-in-area button
+{
+    padding: 5px;
+}
+.tonic-list li
+{
+  padding: 11px 10px;
+}
+
+.tonic-list h2 {
+    font-size: 20px;
+}
+
+.tonic-list p
+{
+    font-size: 12px;
+    left: 30%;
+}
+.popular-article-section .col-xs-6
+{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.article-img{
+    max-height:120px;
+}
+
+.popular-article-section .m-b-10
+{
+    margin-bottom: 0;
+}
+
+.question-card p:first-child {
+    padding: 20px;
+}
+.question-card p:last-child
+{
+        font-size: 10px;
+}
+
+.question-caption p
+{
+    left:32%;
+}
+
+.doctor-card-details p
+{
+    font-size: 12px;
+}
+
+.discount-card
+{
+    min-height: 300px;
+}
+
+.discount-card-details p {
+    /*color: green;*/
+    font-size: 13px;
+}
+}
+
+@media only screen and (max-width: 767px)
+{
+    .life-style
+    {
+        line-height: 16px;
+        padding:6px;
+    }
+    .second-header .navbar-header
+    {
+        width:100%;
+    }
+
+    .second-header .navbar-collapse
+    {
+        
+    }
+    .article-section button
+    {
+        margin: 10px auto;
+        display: inherit;
+    }
+    .question-card
+    {
+        margin:25px;
+    }
+
+    .question-card p:first-child
+    {
+        padding: 50px 70px;
+        font-size: 20px;
+    }
+    .question-caption
+    {
+        padding-bottom: 100px;
+    }
+    .question-caption img
+    {
+        position: absolute;
+        left:25%;
+        top:0;
+        width: 40px;
+        height: 40px;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%
+    }
+    .question-card p:last-child
+    {
+        font-size: 16px;
+    }
+
+    .doctor-card
+{
+    margin: 15px;
+    padding: 5px 10px;
+}
+.doctor-card-details h4
+{
+    padding: 26px;
+    font-size: 24px;
+} 
+.new-renowned-doctor .col-xs-6
+{
+    padding-right: 0; 
+    padding-left: 0; 
+}
+.doctor-card-details p {
+    font-size: 15px;
+}
+
+.discount-card
+{
+    min-height: 350px;
+    margin:15px;
+}
+.discount-part .col-xs-6
+{
+    padding-right: 0; 
+    padding-left: 0; 
+}
+
+.tonic-join-text button
+{
+    width: 100%;
+    font-weight: 700;
+    font-size: 15px;
+}
+.navbar-toggle
+{
+  float:left;
+}
+.vedio-container
+{
+    margin-bottom: 10px;
+}
+.vedio-details
+{
+    margin-bottom: 10px;
+}
+
+    
+
+}
+
+
+@media only screen and (max-width: 540px){
+
+.question-caption img
+{
+    left: 20%;
+}
+
+   .doctor-card-details h4
+{
+    font-size: 22px;
+  
+}
+
+.copy-right-section p
+{
+    float:none!important;
+    text-align: center;
+}
+}
+@media only screen and (max-width: 480px)
+{
+    .doctor-card-details h4
+{
+    font-size: 20px;
+    padding: 0;
+}
+
+.question-caption img {
+    left: 16%;
+}
+.article-img {
+    max-height: 76px;
+}
+.article-section h4
+{
+    font-size: 16px;
+}
+
+.health-question-section h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.question-card {
+    margin: 20px;
+}
+}
+@media only screen and (max-width: 360px){
+
+.question-caption img {
+    left: 12%;
+}
+.doctor-card-details h4
+{
+    font-size: 15px;
+    padding:0;
+}
+
+.health-question-section h3
+{
+    font-size:22px;
+}
+
+.health-question-section h3 span
+{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.question-card {
+    margin: 10px;
+}
+.question-card p:first-child {
+    padding: 30px 10px;
+    font-size: 18px;
+}
+
+
+}
+
